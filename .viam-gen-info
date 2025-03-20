@@ -1,0 +1,12 @@
+{
+  "module_name": "hotreloadtest",
+  "namespace": "jessamy",
+  "language": "python",
+  "resource_type": "component",
+  "resource_subtype": "generic",
+  "model_name": "mygeneric",
+  "enable_cloud_build": true,
+  "initialize_git": false,
+  "generator_version": "0.1.0",
+  "generated_on": "2025-03-20T01:18:45.566595Z"
+}
