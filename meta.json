@@ -4,6 +4,7 @@
   "visibility": "private",
   "url": "https://github.com/JessamyT/hotreloadtest",
   "description": "Modular generic component: mygeneric",
+  "markdown_link": "README.md"
   "models": [
     {
       "api": "rdk:component:generic",
